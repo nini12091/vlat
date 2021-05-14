@@ -1,4 +1,4 @@
-country,station,length,ridership
+country,station,t_length,이용률
 뉴델리,150,175,1.0
 광저우,140,240,2.7
 뉴욕,425,350,3.0
